@@ -4,6 +4,9 @@ ruby_vacco
 作りながら学ぶ Ruby入門
 ==========
 
+##サポートページ
+http://rubybook.vacco.net/
+
 ##登録情報
 
 + 単行本: 424ページ
